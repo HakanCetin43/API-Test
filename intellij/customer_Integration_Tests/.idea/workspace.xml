@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6d71ae32-37bb-45dd-a66f-9a66074f51d8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aJhAWX4V57mkkb4nHueokc1aaR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
+  </component>
+  <component name="RunManager" selected="TestNG.RestAssuredImpl.get0">
+    <configuration name="RestAssuredImpl" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="customer_Integration_Tests.test" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="RestAssuredImpl" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RestAssuredImpl.get0" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="customer_Integration_Tests.test" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="RestAssuredImpl" />
+      <option name="METHOD_NAME" value="get0" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RestAssuredImpl.getWithParam" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="customer_Integration_Tests.test" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="RestAssuredImpl" />
+      <option name="METHOD_NAME" value="getWithParam" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RestAssuredImpl.patch" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="customer_Integration_Tests.test" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="RestAssuredImpl" />
+      <option name="METHOD_NAME" value="patch" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RestAssuredImpl.posts" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="customer_Integration_Tests.test" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="RestAssuredImpl" />
+      <option name="METHOD_NAME" value="posts" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.RestAssuredImpl.get0" />
+        <item itemvalue="TestNG.RestAssuredImpl.getWithParam" />
+        <item itemvalue="TestNG.RestAssuredImpl.patch" />
+        <item itemvalue="TestNG.RestAssuredImpl.posts" />
+        <item itemvalue="TestNG.RestAssuredImpl" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6d71ae32-37bb-45dd-a66f-9a66074f51d8" name="Default Changelist" comment="" />
+      <created>1586459460427</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586459460427</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="238" y="0" key="#RestAssuredImpl.getWithParam" timestamp="1586531280700">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="238" y="0" key="#RestAssuredImpl.getWithParam/0.0.1280.680@0.0.1280.680" timestamp="1586531280700" />
+    <state width="1237" height="163" key="GridCell.Tab.0.bottom" timestamp="1586779953614">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1586779953614" />
+    <state width="1237" height="163" key="GridCell.Tab.0.center" timestamp="1586779953613">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1586779953613" />
+    <state width="1237" height="163" key="GridCell.Tab.0.left" timestamp="1586779953612">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1586779953612" />
+    <state width="1237" height="163" key="GridCell.Tab.0.right" timestamp="1586779953614">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1586779953614" />
+    <state x="171" y="0" key="Maven.ArtifactSearchDialog" timestamp="1586536339896">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="171" y="0" key="Maven.ArtifactSearchDialog/0.0.1280.680@0.0.1280.680" timestamp="1586536339896" />
+    <state x="142" y="0" key="SettingsEditor" timestamp="1586618404037">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1586618404037" />
+    <state x="337" y="165" key="com.intellij.ide.util.TipDialog" timestamp="1586617130131">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="337" y="165" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1586617130131" />
+    <state x="91" y="0" key="new project wizard" timestamp="1586618159209">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="91" y="0" key="new project wizard/0.0.1280.680@0.0.1280.680" timestamp="1586618159209" />
+    <state x="394" y="262" key="org.jetbrains.plugins.cucumber.inspections.ui.CreateStepDefinitionFileDialog" timestamp="1586461828991">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="394" y="262" key="org.jetbrains.plugins.cucumber.inspections.ui.CreateStepDefinitionFileDialog/0.0.1280.680@0.0.1280.680" timestamp="1586461828991" />
+  </component>
+</project>
